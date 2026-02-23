@@ -12,4 +12,7 @@ Seeds the DB with the data of your choosing. Simply run it separately prior to s
 
 
 ## Running the service
+From the main workspace directory:
+`source feature-flag-service/bin/activate`
+`export FLASK_APP=main.py`
 `python -m flask run`
