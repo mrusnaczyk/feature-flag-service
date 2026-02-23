@@ -1,0 +1,7 @@
+gyp==0.1
+python-dateutil==2.8.2
+python-magic==0.4.27
+s3cmd==2.4.0
+setuptools==68.1.2
+six==1.16.0
+wheel==0.42.0
